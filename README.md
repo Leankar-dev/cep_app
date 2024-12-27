@@ -1,6 +1,8 @@
 # cep_app
 
-A new Flutter project.
+An APP that searches full address by zip code.
+Using ViaCEP.
+
 
 ## Getting Started
 
